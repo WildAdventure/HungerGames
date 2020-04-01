@@ -1,0 +1,5 @@
+name: HungerGames
+main: com.gmail.filoghost.hungergames.HungerGames
+version: 1.0
+
+softdepend: [WildCommons, WildChat]
